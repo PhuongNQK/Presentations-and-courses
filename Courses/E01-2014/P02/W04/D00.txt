@@ -1,0 +1,18 @@
+﻿1- (15') Khởi động với bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần như sau:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Dãy chữ cái
+	Thời gian giữa 2 mục (mili-giây): 7000
+	Số dòng; Độ dài mỗi dòng: 1;6
+- Lần 1: Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 100
+- Lần 2: Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Lần 3: Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 300
+
+2- (35') Giải đáp thắc mắc
+
+3- (5') Nghe và đếm âm /i/ và /ɪ/ trong bài nhạc này: https://www.youtube.com/watch?v=elsh3J5lJ6g (The Show - Lenka)
+
+4- (50') Học Tổng quan về từ loại ('Overview of word classes - Nouns.pdf').

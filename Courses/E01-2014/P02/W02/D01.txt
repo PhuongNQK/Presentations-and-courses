@@ -1,0 +1,25 @@
+﻿Chọn bài tập còn lại để làm trong cả tuần này và tuần sau:
+1- Sử dụng Anki thật thành thạo. Dùng Anki tạo các thẻ giúp ghi nhớ những quy tắc phát âm.
+2- Dùng Anki học 600 từ trong bộ từ mình đã mua.
+Lưu ý về cách học bộ từ:
+- Học phối hợp 2 bộ PREVIEW + PRACTICE
+- Đối với mỗi bộ, học ít nhất 100 thẻ mỗi ngày
+- Học mỗi từ càng nhanh càng tốt, và không mất quá 20 giây để học bất kì từ nào.
+
+
+Mỗi ngày làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) trong 15' theo 3 lần như sau:
+- Đầu tiên, chỉnh các thông số:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số	
+	Thời gian giữa 2 mục (mili-giây): 7000
+	Thời gian hiển thị mỗi mục (mili-giây): 400
+- Lần 1: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;6
+- Lần 2: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;8
+- Lần 3: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;7
+	Thời gian hiển thị mỗi mục (mili-giây): 300
+- Ở mỗi lần, cứ ghi ra các số, kiểm tra kết quả và ghi nhận lại số câu đúng. Đến cuối tuần, so sánh kết quả các ngày để xem mình có tiến bộ chưa?
+
+Các bạn có thể nghỉ ngơi vào các ngày lễ 28/4 (giỗ tổ Hùng Vương), 30/4, 1/5. Nghỉ lễ vui vẻ :).

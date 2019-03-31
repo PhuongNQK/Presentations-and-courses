@@ -1,0 +1,14 @@
+﻿Bài tập mở rộng của cả tuần này bao gồm:
+
+1- Đoán và tra phiên âm, học nghĩa của các từ có trong 3 hình:
+	01 - Word cloud - W05_D00.png
+	02 - Word cloud - W05_D02-01.png
+	03 - Word cloud - W05_D04-01.png
+Hãy in 3 hình này ra và ghi chú (bằng màu mực cũng như cách thức, nội dung tùy thích) vừa đủ cần thiết lên bản in đó. Ví dụ: nếu từ đó mình biết rồi, bỏ qua. Nếu từ đó mình biết phiên âm rồi thì không cần ghi phiên âm. Nếu mình chỉ cần biết 1 phần phiên âm của từ thì chỉ cần ghi chú phần cần biết đó. Nếu mình thấy từ đó có liên quan với từ nào khác thì vẽ mũi tên nối các từ đó lại...
+
+Hãy ôn các từ đó ít nhất 2 lần: 1 ngày sau khi làm, ngày liền trước buổi học của tuần 6.
+	
+2- Xem trước phần 12 - Weak forms trong tập tin này: 
+	Extracted - Syllables, word stresses, strong and weak forms.pdf
+(2 phần còn lại dành cho ai thích xem thêm)
+Sau đó áp dụng để làm lại các bài tập phiên âm đoạn và câu trong 4 tuần đầu.

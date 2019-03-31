@@ -1,0 +1,23 @@
+﻿Bài tập này dành cho ngày 27-02 (đối với lớp T7) hay 28-02 (đối với lớp CN).
+
+1- Nếu bạn chưa làm bài tập 'D03-01.txt' thì hãy làm đi. Nếu bạn làm rồi thì chuyển qua phần tiếp theo.
+
+2- Trong 15', đọc to đoạn kí âm sau và chuyển nó thành văn bản bình thường:
+	ə frenʧ bɔɪ sed tu ɪz frend: 
+	- maɪ ˈjʌŋə ˈsɪstər ɪz ten jɪəz əʊld bʌt ʃiː kən spiːk ˈɪŋglɪʃ ˈrɑːðə wel. 
+	hɪz frend smaɪld ən rɪˈplaɪd: 
+	- ɪt ˈɪznt ə streɪnʤ θɪŋ. wen maɪ ˈfæmɪli ˈtrævld tə ˈlʌndən, aɪ met ə ˈlɪtl gɜːl huː wəz əˈbaʊt faɪv jɪəz əʊld ən ʃiː spəʊk ˈɪŋglɪʃ laɪk ðə wɪnd.
+Dùng bút dạ quang tô những từ có thể được chuyển thành strong form. Tự đọc to cả đoạn theo 2 kiểu: dùng strong form, dùng weak form.
+
+Chú ý:
+- Có thể dùng tính năng Sound Search của từ điển Macmillan (bản desktop) để tìm từ dựa theo phiên âm.
+	
+Congratulations for having finished week 10 :)! Relax, listen to any of these songs:
+	Beautiful Sunday: http://www.youtube.com/watch?v=IXu3_jK4QEM
+	Hello: http://www.youtube.com/watch?v=UBYnT8JY7sE
+	Touch the sky: http://www.youtube.com/watch?v=F74ZYsraym8
+	I'll Have To Say I Love You In A Song: https://www.youtube.com/watch?v=E6Vn17S37_Y
+	http://learnenglishkids.britishcouncil.org/en/songs/over-the-mountains
+	http://learnenglishkids.britishcouncil.org/en/songs/playing-the-playground
+	http://learnenglishkids.britishcouncil.org/en/songs/the-ballad-lisa-the-lemur
+do something for fun and get yourself ready for the next week.

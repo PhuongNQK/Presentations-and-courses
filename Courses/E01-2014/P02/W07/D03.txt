@@ -1,0 +1,29 @@
+﻿1- Trong tối đa 5', ôn lại bài học của ngày hôm qua.
+
+2- (5') Nghe tập tin 'D03 - Sound counting.mp3' 1 lần. Âm nào xuất hiện nhiều nhất? Theo bạn thì bài này muốn dạy ta phân biệt âm gì? Bài này xuất hiện trong unit mấy của Ship or Sheep (https://copy.com/UBaHbwUr80TBj82Y)? 
+Chú ý: Đáp án có ghi trong D03 - Key.txt.
+
+3- (5') Nghe tập tin 'D03 - Sound counting.mp3' 2 lần và đếm âm chủ đạo của nó. Ghi lại kết quả vào tập.
+
+4- (30') Tự đọc lại bài hội thoại trên, ghi âm 2 lần (lần 1: đọc từng câu, lần 2: đọc cả bài) và gửi cho Phương + anh Lâm.
+Lưu ý: tập đọc từng câu bằng các bước sau: 
+- Hình dung ra hoàn cảnh của các nhân vật 
+- Tự cảm thấy là mình cần nói những câu đó
+- Nói ra
+
+5- (15') Làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần như sau:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số
+	Thời gian giữa 2 mục (mili-giây): 6000
+	Thời gian hiển thị mỗi mục (mili-giây): 300
+- Lần 1: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;6
+- Lần 2: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;8
+- Lần 3: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;7
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, cứ ghi ra các số, kiểm tra kết quả và ghi nhận lại số câu đúng. So với tuần trước, bạn thấy mình có tiến bộ chưa?
+
+Bạn đã hoàn thành ngày 3. Xin chúc mừng :)!

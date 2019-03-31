@@ -1,0 +1,20 @@
+﻿1- (20') Đếm âm bài nhạc Colors of the wind (https://www.youtube.com/watch?v=G1CLhkXX4lU).
+
+2- (80') Giới thiệu về kĩ thuật luyện viết bằng cách thay từ.
+Dưới đây là danh sách các mục thay từ:
++ Danh từ <-> Đại từ
+	Ví dụ: The doctor is sleeping. => He/she is sleeping.
++ Số ít <-> Số nhiều
+	Ví dụ: The doctor is sleeping. => The doctors are sleeping.
++ Điều kiện thực <-> không thực
+	Ví dụ: If it rains, then I won't go out. => If it rained, then I wouldn't go out.
++ Giống đực <-> Giống cái
+	Ví dụ: He loves her. => She loves him.
++ Từ đồng/trái nghĩa
+	Ví dụ: That is a good guy. => That is a bad guy.
++ Điều chỉnh thời gian: Past / Present / Future
+	Ví dụ: The doctor is sleeping. => The doctor was sleeping.
+...
+Lưu ý: Mỗi lần thay từ, ta cần tự viết nhanh lại đoạn có từ bị thay.
+
+Áp dụng kĩ thuật trên để luyện viết bài Greek Family. Thực tập theo cặp trước khi đọc to cho cả lớp nghe.

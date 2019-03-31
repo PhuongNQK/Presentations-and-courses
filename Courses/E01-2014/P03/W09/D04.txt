@@ -1,0 +1,22 @@
+﻿1- (10') Làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số
+	Số dòng; Độ dài mỗi dòng: 1;8
+	Thời gian giữa 2 mục (mili-giây): 3000
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, chỉ cần tập trung mường tượng lại các số, ko cần ghi ra.
+
+2- (50') Chọn quyển sách Học Đánh Vần Tiếng Anh (của Nguyễn Ngọc Nam). Hãy làm theo các bước sau:
+- Dựa vào phần Mục lục, vẽ 1 sơ đồ tư duy (càng nhiều chi tiết càng tốt)
+- Đọc kĩ sơ đồ và mường tượng ra nội dung cuốn sách thật nhanh.
+- Đọc nội dung với kĩ thuật 2-2-2. Vừa đọc vừa tạo ra 1 sơ đồ tư duy trong đầu mình.
+- Sau mỗi lượt đọc, vẽ sơ đồ trong đầu mình ra. Có thể vẽ thành 1 sơ đồ nhỏ hay bổ sung vào sơ đồ Mục lục ban đầu.
+- Gần cuối buổi học, so sánh sơ đồ của mình với sơ đồ của tác giả (ở đây: https://goo.gl/M8ekwx). Bạn thấy cần điều chỉnh bên nào thì cứ chỉnh.
+- Đem theo các sơ đồ này vào buổi học kế tiếp.
+
+Lưu ý:
+- Trọng tâm của phương pháp là: liên tục đặt câu hỏi định hướng và cập nhật sơ đồ tư duy. Bắt đầu với sơ đồ Mục lục và hoàn chỉnh dần với những sơ đồ tương ứng của mỗi lượt đọc.
+- Cố gắng chọn từ khóa và tạo ra những hình ảnh đơn giản, vui vẻ để đặt vào sơ đồ tư duy.
+
+Bạn đã hoàn thành ngày 4. Xin chúc mừng :)!

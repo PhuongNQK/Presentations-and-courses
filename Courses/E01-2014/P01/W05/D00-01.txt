@@ -1,0 +1,6 @@
+﻿1- Sử dụng phương pháp trí nhớ để học thuộc các từ trong hình '01 - Word cloud - W05_D00.png'.
+
+Phần chú giải nghĩa cụ thể ở đây: http://www.macmillandictionary.com/thesaurus-category/british/Hunters-and-anglers
+
+Nhập từ vào WordItOut: 
+0_angler 1_beater 2_falconer 3_fisher 3_fisherman 4_game_warden 5_hunter 5_huntress 5_huntsman 6_poacher 7_sealer 8_shikari 9_stalker 10_tracker 11_trapper 12_whaler

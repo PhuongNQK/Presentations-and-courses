@@ -1,0 +1,8 @@
+﻿1- (10') Học về bài tập 1000 từ/phút. 
+Cách làm:
+B1- Chọn sách hay báo muốn đọc.
+B2- Ước lượng 1 đoạn chưa đọc khoảng 5000 từ và ghi nhận điểm đầu, điểm cuối của đoạn đó.
+B3- Đặt đồng hồ đếm ngược 5 phút và bắt đầu đọc.
+B4- Nếu hết 5 phút mà bạn chưa đọc được cả đoạn thì hãy làm lại từ B3 (đọc lại đoạn đó) với tốc độ nhanh hơn. Nếu sau 5 lần (nếu bạn có nhiều thời gian hơn thì có thể thử đến tối đa 10 lần) vẫn chưa đạt yêu cầu thì có thể tạm dừng hoặc thử với 1 đoạn khác.
+
+2- (60') Áp dụng để đọc sách báo mà bạn muốn.

@@ -1,0 +1,16 @@
+﻿1- (20') Khởi động với bài tập nhìn nhanh (http://phuonglamcs.com/relax/main.html) theo 3 lần như sau:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số xe
+	Thời gian giữa 2 mục (mili-giây): 3000
+	Thời gian hiển thị mỗi mục (mili-giây): 300
+- Lần 1: Nhìn cho quen
+- Lần 2: Chọn
+	Thời gian giữa 2 mục (mili-giây): 6000
+- Lần 3: Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, cứ ghi ra các số, kiểm tra kết quả và ghi nhận lại số câu đúng. 
+
+2- (30') Giới thiệu qua về sơ đồ tư duy và công cụ iMindmap (http://thinkbuzan.com/products/imindmap/ hay http://thuthuatwin77.blogspot.com/2015/06/soft-imindmap-810-phan-mem-ve-so-o-tu.html hay https://docs.google.com/uc?export=download&confirm=rSeN&id=0B8lUTlNfkSjCMUZRVks2UldEVlU).
+
+3- (50') Học về bản chất của việc đọc và kĩ thuật sử dụng vật định hướng. Áp dụng để đọc báo và đọc tiếp quyển sách của tuần trước.

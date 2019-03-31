@@ -1,0 +1,18 @@
+﻿1- (20') Khởi động với bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 4 lần như sau:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Bảng số xe
+	Thời gian giữa 2 mục (mili-giây): 3000
+- 2 lần đầu (làm quen - chỉ nhìn mà không ghi): Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 100
+	Thời gian giữa 2 mục (mili-giây): 3000
+- Lần 3 (Ghi ra): Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+	Thời gian giữa 2 mục (mili-giây): 6000
+- Lần 4 (Ghi ra): Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 300
+	Thời gian giữa 2 mục (mili-giây): 6000
+
+3- (15') Phân tích lại 1 số câu trong tập phim The Flash - S01E01.
+
+2- (70') Vừa làm bài tập vừa học Tổng quan về từ loại - P3 ('Overview of word classes - P3 - Adv, Pron, Conj, Prep, Interjection.pptx' ở P02/W07).

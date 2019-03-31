@@ -1,0 +1,26 @@
+﻿1- (20') Làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần như sau:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số
+	Thời gian giữa 2 mục (mili-giây): 7000
+	Thời gian hiển thị mỗi mục (mili-giây): 300
+- Lần 1: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;8
+- Lần 2: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;9
+- Lần 3: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;8
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, cứ ghi ra các số, kiểm tra kết quả và ghi nhận lại số câu đúng. 
+
+2- (20') Hãy chọn 1 quyển sách bất kì để đọc và làm như sau:
+- Đặt ra 3 câu hỏi mà bạn muốn biết từ nội dung cuốn sách.
+- Tập trung đọc để có câu trả lời cho 3 câu hỏi đó. Đọc càng nhiều càng tốt bằng ít nhất 1 trong 3 bài tập 3-2-1, 2-2-2, 1000 từ/phút.
+
+3- (5') Hãy ghi câu trả lời ngắn gọn của 3 câu hỏi đó và tóm tắt nội dung phần đã đọc trong vòng 3 câu.
+
+4- (5') Ước lượng xem tốc độ đọc của bạn là bao nhiêu và ghi nhận vào sơ đồ.
+
+5- (10') Đọc to "Drag.pdf" vài lần. Khi đã quen, hãy đọc vừa to vừa nhanh xem bạn có thể nhanh tới mức nào.
+
+Xin chúc mừng Bạn đã hoàn thành tuần 11! Hãy thư giãn (ăn uống gì đó, nói chuyện với ai đó, đi dạo, nghe lại bài nhạc của tuần - https://www.youtube.com/watch?v=Tvu3xiFmfDU,...) và chuẩn bị tinh thần cho tuần tiếp theo :)!

@@ -1,0 +1,18 @@
+﻿1- (10') Làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số
+	Số dòng; Độ dài mỗi dòng: 1;8
+	Thời gian giữa 2 mục (mili-giây): 3000
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, chỉ cần tập trung mường tượng lại các số, ko cần ghi ra.
+
+2- (50') Chọn 1 quyển sách mà bạn muốn đọc. Hãy làm theo các bước sau:
+- Dựa vào phần Mục lục, vẽ 1 sơ đồ tư duy (càng nhiều chi tiết càng tốt)
+- Đọc kĩ sơ đồ và mường tượng ra nội dung cuốn sách thật nhanh.
+- Đọc nội dung với kĩ thuật 2-2-2. Vừa đọc vừa tạo ra 1 sơ đồ tư duy trong đầu mình.
+- Sau khi đọc xong, vẽ sơ đồ trong đầu mình ra.
+- Tổng hợp nội dung trên 2 sơ đồ thành 1 sơ đồ tư duy.
+- Đem theo các sơ đồ này vào buổi học kế tiếp.
+
+Bạn đã hoàn thành ngày 4. Xin chúc mừng :)!

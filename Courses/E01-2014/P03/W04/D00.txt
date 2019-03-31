@@ -1,0 +1,18 @@
+﻿1- (25') Khởi động với bài tập nhìn nhanh (http://phuonglamcs.com/relax/main.html) theo 3 lần như sau:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số xe
+	Thời gian giữa 2 mục (mili-giây): 3000
+	Thời gian hiển thị mỗi mục (mili-giây): 300
+- Lần 1: Nhìn cho quen
+- Lần 2: Chọn
+	Thời gian giữa 2 mục (mili-giây): 6000
+- Lần 3: Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, cứ ghi ra các số, kiểm tra kết quả và ghi nhận lại số câu đúng. 
+
+2- (20') Giải đáp thắc mắc.
+
+3- (10') Xem 10' đầu của phim Pocahontas.
+
+4- (50') Học về bài tập 2-2-2 và cách đánh dấu chỗ quan trọng cũng như chỗ không hiểu. Áp dụng để đọc báo và/hoặc đọc tiếp quyển sách của tuần 3.

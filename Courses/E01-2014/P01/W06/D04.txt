@@ -1,0 +1,12 @@
+﻿1- Trong 5', ôn lại bảng thống kê strong/weak form lập ở ngày 3.
+
+2- Trong 55', nghe và ghi ra các từ trong bài tập 'D00 - Print.pdf' (tuần 5) theo mẫu sau:
+	Trường hợp giống nhau: 
+		/phiên âm/ <từ dự đoán>
+		Ví dụ: /kæt/ cat
+	Trường hợp khác nhau: 
+		/phiên âm/ <từ dự đoán>, /phiên âm/ <từ dự đoán>
+		Ví dụ: /kæt/ cat, /kʌt/ cut
+Nếu cần, cứ nghe nhiều lần từ đầu đến cuối. Mỗi lần nghe xong cần chỉnh gì thì chỉnh. Cố gắng nghe đến khi thấy không cần chỉnh nữa hãy ngưng.
+
+Congratulations for having finished day 4 :)!

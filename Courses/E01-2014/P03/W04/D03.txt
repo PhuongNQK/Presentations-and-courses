@@ -1,0 +1,25 @@
+﻿1- (20') Làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần như sau:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số
+	Thời gian giữa 2 mục (mili-giây): 7000
+	Thời gian hiển thị mỗi mục (mili-giây): 300
+- Lần 1: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;6
+- Lần 2: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;8
+- Lần 3: Chọn
+	Số dòng; Độ dài mỗi dòng: 1;7
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, cứ ghi ra các số, kiểm tra kết quả và ghi nhận lại số câu đúng. 
+
+2- (30') Nếu bạn chưa xong quyển sách ngày D02 thì dùng tiếp nó:
+- Đặt tiếp 3 câu hỏi mà bạn muốn biết từ nội dung phần tiếp theo của cuốn sách.
+- Tập trung đọc để có câu trả lời cho 3 câu hỏi đó. Đọc càng nhiều càng tốt bằng bài tập 2-2-2 (làm ít nhất là 3 lượt).
+(Nếu đã xong thì hãy chọn 1 quyển sách bất kì khác mà bạn THÍCH đọc và làm như ngày 1.)
+
+3- (5') Hãy ghi câu trả lời ngắn gọn của 3 câu hỏi đó và tóm tắt nội dung phần đã đọc trong vòng 3 câu.
+
+4- (5') Ước lượng xem tốc độ đọc của bạn là bao nhiêu và ghi nhận vào sơ đồ.
+
+Bạn đã hoàn thành ngày 3. Xin chúc mừng :)!

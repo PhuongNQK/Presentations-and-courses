@@ -1,0 +1,18 @@
+﻿1- (10') Làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số và chữ
+	Số dòng; Độ dài mỗi dòng: 1;7
+	Thời gian giữa 2 mục (mili-giây): 3000
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, chỉ cần tập trung mường tượng lại các số, ko cần ghi ra.
+
+2- (40') Hãy chọn 1 quyển sách bất kì và làm như sau:
+- Đặt ra 3 câu hỏi mà bạn muốn biết từ nội dung cuốn sách.
+- Tập trung đọc để có câu trả lời cho 3 câu hỏi đó. Đọc càng nhiều càng tốt bằng bài tập 1000 từ/phút (cố gắng làm ít nhất là 2 lượt).
+
+3- (7') Hãy ghi câu trả lời ngắn gọn của 3 câu hỏi đó và tóm tắt nội dung phần đã đọc trong vòng 3-5 câu. Theo bạn thì nội dung đó sẽ có ích gì cho bạn?
+
+4- (3') Ước lượng xem tốc độ đọc của bạn là bao nhiêu và ghi nhận vào sơ đồ.
+
+Bạn đã hoàn thành ngày 2. Xin chúc mừng :)!

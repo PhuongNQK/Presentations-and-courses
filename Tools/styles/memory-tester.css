@@ -1,0 +1,159 @@
+#messageArea{
+	margin: 20px 5px 5px 5px;
+	background-color: #000;
+	min-height: 1000px;
+	color: #fff;
+	padding: 10px;			
+}
+
+.big-message 
+{
+	text-align: center;
+	font-size: 108px;
+}
+
+.medium-message 
+{
+	text-align: center;
+	font-size: 48px;
+}
+		
+.small-message 
+{
+	text-align: left;
+	font-size: 20px;
+}
+
+.highlight{
+	color: red;
+}
+
+.big-message-index, .medium-message-index, .small-message-index {
+	color: #ff0;
+}
+
+.float-buttons{
+	display: block;
+	position: fixed;
+	right: 10px;
+	bottom: 0px;
+}
+
+fieldset {
+	border: 1px solid #000;
+	background-color: #F0F0F0;
+}
+
+fieldset legend
+{
+    display:block;
+	border: 1px solid #000;
+	font-weight: bold;
+	background-color: #CFCFCF;
+	margin-left: 20px;
+	line-height: 20px;
+	padding: 5px;
+	vertical-align: middle;	
+}
+
+.controls a{
+	display: inline-block;
+	min-width: 50px;
+	padding: 3px;
+	text-align: center;
+	vertical-align: middle;
+	margin: 2px;
+	float: right;
+	cursor: pointer;
+	text-decoration: none;
+	color: #000;
+}
+
+.controls a:hover{
+	background-color: #A5A5FF;
+}
+
+.controls a:visited{
+	color: #000;
+}
+
+.controls .icon{
+	height: 32px;
+}
+
+.fullwidth
+{
+    width: 100%;
+}
+
+tr.altenate
+{
+    background-color: #F0F0F0;
+}
+
+td.header-column
+{
+    font-weight: bold;
+}
+
+body > footer, body > header
+{
+    background-color: #0264B6;
+    margin-top: 5px;	
+    color: White;
+    padding: 5px 10px 5px 10px;
+    text-align: right;
+}
+
+body > header a
+{
+	color: White;
+	margin-right: 6px;
+}
+
+body > footer
+{
+	margin-bottom: 5px;
+}
+
+body > section
+{
+    padding: 5px;
+    border: 7px solid #0264B6;
+}
+
+article > h2
+{
+    color: #0264B6;
+    margin-top: 20px;
+}
+
+.note
+{
+    font-style: italic;
+}
+
+section > header, section > footer
+{
+    display: block;
+}
+
+.right-first
+{
+    float: right;
+}
+
+.left-first
+{
+    float: left;
+}
+
+.hidden
+{
+    display: none;
+}
+
+.poker-card
+{
+	width: 200px;
+}

@@ -1,0 +1,18 @@
+﻿1- (20') Khởi động với bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần như sau:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Dãy chữ cái
+	Số dòng; Độ dài mỗi dòng: 1;6
+	Thời gian giữa 2 mục (mili-giây): 6000
+- Lần 1: Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 100
+- Lần 2: Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Lần 3: Chọn
+	Thời gian hiển thị mỗi mục (mili-giây): 300
+
+2- (30') Vừa làm bài tập trong 'D00 - Print.pdf' vừa học Tổng quan về từ loại ('Overview of word classes - P2.pdf').
+
+3- (5') Giải trí với màn biểu diễn ấn tượng của nhóm El Gamma Penumbra: https://www.youtube.com/watch?v=1ReuOnKSi0s (Con người thật sáng tạo :))
+
+4- (50') Tiếp tục bài học.

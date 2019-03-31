@@ -1,0 +1,24 @@
+﻿1- Ôn lại tập tin '01 - Vowels & Consonants.pdf' ở tuần 8 trong tối đa 5'.
+
+2- Trong 43', lần lượt nghe các tập tin từ 'D01 - B19a.mp3' đến 'D01 - C31.mp3'. Ghi các từ được đọc ra thành từng cặp theo dạng:
+	/phiên âm/ <từ> - /phiên âm/ <từ>
+	Ví dụ: /ʃiːp/ sheep - /ʃɪp/ ship
+Lưu ý:
+- Bạn có thể nghe một tập tin nhiều lần tùy thích.
+- Mỗi cặp từ chỉ khác ở cặp âm cần phân biệt:
+	'D01 - B19a.mp3': phân biệt cặp âm /ɜ:/ và /əʊ/
+	'D01 - B19b.mp3': phân biệt cặp âm /ɔ:/ và /əʊ/
+	'D01 - B20.mp3': phân biệt cặp âm /i:/ và /ɪə/
+	'D01 - B21.mp3': phân biệt cặp âm /ɪə/ và /eə/
+	'D01 - B24.mp3': phân biệt âm /p/ và /b/
+	'D01 - C26.mp3': phân biệt âm /t/ và /d/
+	'D01 - C28.mp3': phân biệt âm /k/ và /g/
+	'D01 - C31.mp3': phân biệt âm /s/ và /z/	
+- Cách nghe từng tập tin:
+	Lần đầu tiên: Nghe qua 1 lần cả tập tin, không ghi gì cả. Tập trung lắng nghe để phân biệt.
+	Các lần sau: Nghe từ đầu đến cuối, nghe đến đâu thì ghi đến đó. Nếu nghe hết mà chưa chắc mình đúng thì nghe lại từ đầu. 
+	Nếu sau 3 lượt (1 lần đầu + 2 lần sau) mà vẫn chưa xong thì tạm bỏ qua để nghe tập tin kế tiếp. Sau khi xong hết các tập tin thì quay lại những tập tin chưa nghe tốt.
+	
+3- Trong 12', lần lượt nghe lại tất cả các tập tin ở yêu cầu 2. Lần này chỉ nhắm mắt, lắng nghe, đọc theo lại thật nhanh và không ghi gì cả. Bạn đã phân biệt được các cặp âm chưa? Nếu chưa, hãy tự dành thêm thời gian để nghe lại vài lần.
+	
+You have finished day 1. Congratulations :)!

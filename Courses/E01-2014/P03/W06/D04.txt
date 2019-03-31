@@ -1,0 +1,22 @@
+﻿1- (10') Làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số và chữ
+	Số dòng; Độ dài mỗi dòng: 1;7
+	Thời gian giữa 2 mục (mili-giây): 3000
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, chỉ cần tập trung mường tượng lại các số, ko cần ghi ra.
+
+2- (40') Tiếp tục dùng tài liệu 'Vol.1 - L1,2.pdf': 
+- Bây giờ bạn đã có khái niệm về tài liệu này. Trong vòng 10', hãy đọc nhanh lại cả tài liệu và chọn ra 2 bài mà bạn thấy dễ nhất cùng 2 bài mà bạn thấy khó nhất.
+- Trong 30', cố gắng hiểu các bài được chọn bằng cách dựa theo những phần đã hiểu để đoán nghĩa của phần chưa hiểu. Đối với mỗi bài, bạn có khoảng 7' và được tra tối đa 3 từ.
+
+(Lưu ý: nếu các bài trong 'Vol.1 - L1,2.pdf' quá đơn giản với bạn thì hãy chọn 1 tài liệu khác khó hơn và áp dụng yêu cầu 2- và 3- cho tài liệu đó)
+
+3- (7') Hãy nhớ lại quá trình cố gắng suy luận bạn vừa làm ở yêu cầu 2. 
+- Nếu quá trình đó giúp bạn hiểu tốt hơn thì hãy tưởng tượng cảnh bạn đang cầm 1 tài liệu khác và cũng đang suy luận tương tự để hiểu.
+- Còn nếu bạn thấy quá trình đó không giúp ích gì thì hãy nghĩ về tối đa 3 điểm cần điều chỉnh để có thể hiểu tốt hơn. Sau đó, tưởng tượng cảnh bạn đang cầm 1 tài liệu khác và đang suy luận theo cách mới để hiểu.
+
+4- (3') Ước lượng xem tốc độ đọc và mức độ hiểu của bạn là bao nhiêu và ghi nhận vào sơ đồ.
+
+Bạn đã hoàn thành ngày 4. Xin chúc mừng :)!

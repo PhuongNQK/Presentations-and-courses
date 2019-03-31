@@ -1,0 +1,15 @@
+﻿1- (10') Làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số xe
+	Thời gian giữa 2 mục (mili-giây): 3000
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, chỉ cần tập trung mường tượng lại các số, ko cần ghi ra.
+
+2- (50') Xem lại sơ đồ tư duy đã vẽ cho sách Grammar In Use hay Học đánh vần tiếng Anh. Bổ sung các hình vẽ đơn giản để gợi nhớ lại 7 điểm ngữ pháp mà bạn thấy là mình hay dùng (hoặc hay quên) nhất. Sắp xếp lại các nhánh nếu thích. Sau đó vẽ lại sơ đồ tư duy hoàn chỉnh vào giấy hay iMindmap.
+Lưu ý:
+- Hãy bổ sung chi tiết tới mức tối đa. Bạn có thể thoải mái dùng màu, hình ảnh, ... Có thể tham khảo "Sample-mind-map.svg" hay "Sample-mind-map.imx" để lấy ý tưởng cải thiện lại sơ đồ của mình.
+- Sơ đồ này vẽ ra để giúp bạn nắm tổng thể bài học. Do đó, hãy bố trí, sắp xếp, ... sao cho bạn thấy dễ hiểu nhất.
+- Đem theo sơ đồ này vào buổi học kế tiếp.
+
+Bạn đã hoàn thành ngày 4. Xin chúc mừng :)!

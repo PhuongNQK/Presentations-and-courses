@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" href="../styles/reset.css"/>
+		<link rel="stylesheet" href="../styles/960_12_col.css"/>
+        <link rel="stylesheet" href="../styles/memory-tester.css"/>
+        <title>Memory Tester</title>
+	</head>
+	<body>		
+		<div class="container_12 controls">
+			<!--<a href="main_en.html"><img src="images/icons/flags/en.png" class="icon"/>&nbsp;English</a>-->
+			<a href="help.html" title="Hướng dẫn sử dụng"><img src="../images/icons/help.png" class="icon" alt="?"/>&nbsp;Hướng dẫn sử dụng</a>
+		</div>
+		<form id="criteriaForm" class="container_12">
+			<fieldset class="input-fields">
+				<legend>Điều kiện kiểm tra</legend>
+				<label for="itemCount" class="grid_2">Số mục kiểm tra</label>
+				<input class="grid_2" type="text" name="itemCount" value="5"/>
+				<div class="row-spacer"></div>
+				<label for="itemType" class="grid_2">Loại nội dung</label>
+                <span class="grid_3">
+				    <select class="fullwidth" name="itemType">
+					    <!--
+						<option value="0">Từ, cụm từ</option>
+					    <option value="1">Tiêu đề</option>
+					    <option value="3">Số</option>
+					    <option value="4">Số xe</option>
+					    <option value="5">Hỗn hợp (Từ - cụm từ, Số, Số xe)</option>
+					    <option value="6">Hỗn hợp (Tất cả)</option>
+						-->
+				    </select>
+                </span>
+                <label name="lblArguments" for="arguments" style="float:left" class="hidden">Số chữ số</label>
+                <input class="grid_2 hidden" type="text" name="arguments" value=""/>
+				<div class="row-spacer"></div>				
+				<label for="usesSameOrder" class="grid_2">Sử dụng thứ tự cố định</label>				
+				<span class="grid_1"><input type="checkbox" name="usesSameOrder" class="alpha"/></span>
+				<div class="row-spacer"></div>
+				<label for="newItemInterval" class="grid_3">Thời gian giữa 2 mục (mili-giây)</label>
+				<input class="grid_2" type="text" name="newItemInterval" value="5000"/>
+				<div class="row-spacer"></div>
+				<label class="grid_3" for="showTime">Thời gian hiển thị mỗi mục (mili-giây)</label>
+				<input class="grid_2" type="text" name="showTime" value="1000"/>
+				<div class="row-spacer"></div>				
+			</fieldset>
+			<center>
+				<div class="control-buttons">
+					<input type="button" data-command="start" value="Bắt đầu" class="grid_2"/>
+					<input type="button" data-command="pause" value="Tạm dừng" class="grid_2" disabled/>
+					<input type="button" data-command="resume" value="Tiếp tục" class="grid_2" disabled/>
+					<input type="button" data-command="stop" value="Kết thúc" class="grid_2" disabled/>                
+					<input type="button" data-command="restart" value="Bắt đầu lại" class="grid_2" disabled/>
+					<input type="button" data-command="showAll" value="Hiển thị đề" class="grid_2" disabled/>					
+					<div id="messageAreaToolbar" class="float-buttons">
+						<input type="button" data-command="increaseFontSize" value="Chữ to hơn" class="toolbar-button" disabled/>
+						<input type="button" data-command="decreaseFontSize" value="Chữ nhỏ hơn" class="toolbar-button" disabled/>
+                        <input type="button" data-command="goTop" value="Về đầu trang" class="toolbar-button" disabled/>
+					</div>
+				</div>
+			</center>
+		</form>
+		
+		<div id="messageArea"></div>
+		
+		<script type="text/javascript" src="../scripts/libs/jquery-1.6.2.js"></script>
+        <script type="text/javascript" src="../scripts/libs/jquery.json-2.2.js"></script>
+		<script type="text/javascript" src="../scripts/common/utilities.js"></script>
+		<script type="text/javascript" src="../scripts/memory-tester/data.js"></script>
+		<script type="text/javascript" src="../scripts/memory-tester/MemoryTester.js"></script>
+		<script type="text/javascript" src="../scripts/memory-tester/main.js"></script>
+	</body>
+</div>
+</html>

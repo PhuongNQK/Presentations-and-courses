@@ -1,0 +1,12 @@
+﻿1- Trong 60', ôn lại các phần sau:
+- Cách đọc âm cuối -s/-es/-ed (Bài 25, 26 trong sách 'Bí quyết đọc tiếng Anh')
+- Nhận dạng phụ âm s/z (Bài 8 trong sách 'Học đánh vần tiếng Anh')	
+- Weak forms (tuần 5, chương 12 của tài liệu 'Extracted - Syllables, word stresses, strong and weak forms.pdf')
+
+Sau đó, viết phiên âm cho mấy câu sau (sử dụng weak form):
+- Sam, a surly sergeant from Cisco, Texas, saw a sailor sit silently on a small seat reserved for youngsters. He stayed for several minutes, while tots swarmed around.
+- A lazy Thursday at the zoo found the zebras grazing on zinnias, posing for pictures, and teasing the zookeepers, whose noses were bronzed by the sun. The biggest zebra's name was Zachary, but his friends called him Zack.
+	
+Kiểm tra kết quả bằng công cụ http://lingorado.com/ipa/.
+	
+Bạn đã hoàn thành ngày 1. Xin chúc mừng :)!

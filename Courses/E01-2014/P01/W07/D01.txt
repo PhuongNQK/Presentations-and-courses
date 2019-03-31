@@ -1,0 +1,22 @@
+﻿1- Ôn lại buổi học ở lớp trong tối đa 5'.
+
+2- Trong 45', lần lượt nghe các tập tin từ 'D01 - A02.mp3' đến 'D01 - A08.mp3'. Ghi các từ được đọc ra thành từng cặp theo dạng:
+	/phiên âm/ <từ> - /phiên âm/ <từ>
+	Ví dụ: /ʃiːp/ sheep - /ʃɪp/ ship
+Lưu ý:
+- Bạn có thể nghe một tập tin nhiều lần tùy thích.
+- Mỗi cặp từ chỉ khác ở cặp âm cần phân biệt:
+	'D01 - A02.mp3': phân biệt cặp âm /i:/ và /ɪ/
+	'D01 - A03.mp3': phân biệt cặp âm /ɪ/ và /e/
+	'D01 - A04.mp3': phân biệt cặp âm /e/ và /æ/
+	'D01 - A05.mp3': phân biệt cặp âm /æ/ và /ʌ/
+	'D01 - A06.mp3': phân biệt cặp âm /æ/ và /ɑ:/
+	(không có 'D01 - A07.mp3')
+	'D01 - A08.mp3': phân biệt cặp âm /æ/ và /ɒ/
+- Cách nghe từng tập tin:
+	Nghe qua 1 lần cả tập tin, không ghi gì cả. Tập trung lắng nghe để phân biệt.
+	Nghe kĩ lại, lần này nghe đến đâu thì ghi đến đó.
+	
+3- Trong 10', lần lượt nghe lại tất cả các tập tin ở yêu cầu 2. Lần này chỉ nhắm mắt, lắng nghe, đọc theo lại thật nhanh và không ghi gì cả. Bạn đã phân biệt được các cặp âm chưa? Nếu chưa, hãy tự dành thêm thời gian để nghe lại vài lần.
+	
+You have finished day 1. Congratulations :)!

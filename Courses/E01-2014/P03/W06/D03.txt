@@ -1,0 +1,18 @@
+﻿1- (10') Làm bài tập nhìn nhanh (tại http://phuonglamcs.com/relax/main.html) theo 3 lần:
+- Đầu tiên, chỉnh các thông số như sau:
+	Số mục kiểm tra: 20
+	Loại nội dung: Số
+	Số dòng; Độ dài mỗi dòng: 1;8
+	Thời gian giữa 2 mục (mili-giây): 3000
+	Thời gian hiển thị mỗi mục (mili-giây): 200
+- Ở mỗi lần, chỉ cần tập trung mường tượng lại các số, ko cần ghi ra.
+
+2- (45') Hãy in tài liệu 'Vol.1 - L1,2.pdf' ra và làm như sau:
+- Trong tối đa 20', đọc qua toàn bộ (chỉ đọc, không tra từ mới) và nhận xét xem tài liệu nói về những vấn đề gì?
+- Trong 13' kế tiếp, đọc lại 1 lần toàn bộ tài liệu. Dùng bút chì đánh dấu thật nhanh những từ ngữ không biết.
+- Trong 9' kế tiếp, tra tối đa 3 từ và cố gắng đọc lại thêm 1 lượt toàn tài liệu. Bạn hiểu thêm được nhiều không?
+- Trong 5', kể tên 3 bài mà bạn thích nhất hay nhớ nhất. Theo bạn thì nội dung đó sẽ có ích gì cho bạn?
+
+3- (3') Ước lượng xem tốc độ đọc của bạn là bao nhiêu và ghi nhận vào sơ đồ.
+
+Bạn đã hoàn thành ngày 3. Xin chúc mừng :)!
